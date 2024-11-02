@@ -23,6 +23,16 @@ function App() {
     <p className='detail'> Skyscraper live video from dubai caught in 4k | DUBAI 2024</p>
 
   </div>
+  <div className='divisions'>
+    <div className='division1'>
+      <div className='common'><h1>Contact</h1>
+    <p>email : abc@bbc.com</p>
+    <p>Ph no: 889998987</p>
+    </div>
+    </div>
+    <div className='division2'><p>DIVISION 2</p></div>
+    <div className='division3'><p>DIVISION 3</p></div>
+  </div>
 </div>
   );
  
