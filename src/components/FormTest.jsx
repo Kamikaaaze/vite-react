@@ -16,8 +16,8 @@ function FormTest(){
                 <p className="questions">query type <span className="star">*</span> </p>
                 <div className="blocks">
                     <div className="toggle">
-                    <div style={{display:'inline-block'} }className="rectangle"><input type='radio'></input>General Enquiery</div>
-                    <div style={{display:'inline-block'}} className="rectangle"><input type='radio'></input>Support Request</div>
+                    <div style={{display:'inline-block'} }className="rectangle"><input type='radio' name="query"></input>General Enquiery</div>
+                    <div style={{display:'inline-block'}} className="rectangle"><input type='radio' name="query"></input>Support Request</div>
                     </div>
                   
                     </div>
