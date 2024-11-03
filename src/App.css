@@ -99,3 +99,19 @@ textarea{
   width: 370px;
   height: 30px;
 }
+.submit:hover{
+  background-color: rgb(31, 134, 88);
+}
+.toggle{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-left: 3px;
+}
+.rectangle{
+  border: 1px solid black;
+  border-radius: 2px;
+  width: 170px;
+  height: 30px;
+  text-align: center;
+  padding-top: 5px;
+}
